@@ -36,3 +36,31 @@
 Я подгрузил ветку мастер в проект из задания repo#1. Появилась отдельная ветка - ветка master.
 Согласно 7e4f7e1 видно 11 commits.
 Сейчас запушу и закоммичу еще и изменения в этом документе.
+
+Перечислите комментарии из них. Вот это забыл сделать.
+
+Commits on Feb 19, 2024
+ответ на вопрос задачи
+
+для отслеживания изменений
+
+Merge branch 'boots_buttons'
+
+Merge remote-tracking branch 'origin/hat'
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+Commits on Jun 29, 2016
+fix readme
+
+dots
+
+README added
+
+boots
+
+heat added
+
+init
